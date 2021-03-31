@@ -2,9 +2,9 @@
 Comming soon...
 # ToDo
   1. Hardware design
-    	>The display panel, the bats and the ball
-    	>The video subsystem
-    	>The video chip
+    >The display panel, the bats and the ball
+    >The video subsystem
+    >The video chip
   2. Kinematic controller
    		>Position of the ball
     	>Driving the display
