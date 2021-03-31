@@ -33,6 +33,7 @@ Comming soon...
     	>Suggested design progression
 ### In progress ###
 
+  1. Hardware design
       >The video subsystem
 
 ### Done ###
