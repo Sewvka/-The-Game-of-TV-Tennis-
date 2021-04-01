@@ -1,11 +1,12 @@
 # -The-Game-of-TV-Tennis-
 Comming soon...
-# ToDo
+
+---
+
+### ToDo ###
   1. Hardware design
       >The display panel, the bats and the ball
-      
-      >The video subsystem
-      
+            
       >The video chip
   2. Kinematic controller
    		>Position of the ball
@@ -33,3 +34,16 @@ Comming soon...
     	>Software
     	
     	>Suggested design progression
+    	
+---      
+      
+### In progress ###
+
+  1. Hardware design
+      >The video subsystem
+
+---
+
+### Done ###
+
+
