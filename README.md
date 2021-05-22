@@ -3,9 +3,11 @@ Comming soon...
 
 ---
 
-### ToDo ###
+### Done ###
   1. Hardware design
       >The display panel, the bats and the ball
+            
+      >The video subsystem
             
       >The video chip
   2. Kinematic controller
@@ -35,15 +37,6 @@ Comming soon...
     	
     	>Suggested design progression
     	
----      
-      
-### In progress ###
 
-  1. Hardware design
-      >The video subsystem
-
----
-
-### Done ###
 
 
